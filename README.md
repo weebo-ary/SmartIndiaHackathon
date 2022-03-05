@@ -2,7 +2,7 @@
 Team Error 404
 
 # Application
-## Login via OTP
+### Login via OTP
 ## Dashboard of saved Invoice
 ## Scanning QR Code
 ## Download or Save in Database
