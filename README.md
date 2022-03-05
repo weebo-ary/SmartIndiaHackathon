@@ -1,5 +1,5 @@
 # SmartIndiaHackathon
-Team Error 404
+<h1>Team Error 404</h1>
 
 # Application
 ### Login via OTP
